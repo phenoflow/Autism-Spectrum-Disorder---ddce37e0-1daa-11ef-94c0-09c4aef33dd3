@@ -1,0 +1,33 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/autism-spectrum-disorder-asd-[x]asperger's---primary.py
+inputModule3:
+  class: File
+  path: python/autism-spectrum-disorder-asd---primary.py
+inputModule4:
+  class: File
+  path: python/autism-spectrum-disorder-asd-infantile---primary.py
+inputModule5:
+  class: File
+  path: python/residual-autism-spectrum-disorder-asd---primary.py
+inputModule6:
+  class: File
+  path: python/autism-spectrum-disorder-asd-childhood---primary.py
+inputModule7:
+  class: File
+  path: python/active-autism-spectrum-disorder-asd---primary.py
+inputModule8:
+  class: File
+  path: python/developmental-autism-spectrum-disorder-asd---primary.py
+inputModule9:
+  class: File
+  path: "python/autism-spectrum-disorder-asd-rett\u2019s---primary.py"
+inputModule10:
+  class: File
+  path: "python/autism-spectrum-disorder-asd-asperger\u2019s---primary.py"
+inputModule11:
+  class: File
+  path: python/output-cases.py
